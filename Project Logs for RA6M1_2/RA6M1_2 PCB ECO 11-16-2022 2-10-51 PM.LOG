@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=3V3 Pin=AMS?-2
+Removed Pin From Net: NetName=3V3 Pin=AMS?-4
+Removed Pin From Net: NetName=3V3 Pin=C32-2
+Removed Pin From Net: NetName=3V3 Pin=C33-1
+Removed Pin From Net: NetName=3V3 Pin=C62-2
+Removed Pin From Net: NetName=3V3 Pin=C69-2
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=3V3 Pin=J2-1
+Removed Pin From Net: NetName=3V3 Pin=J7-6
+Removed Pin From Net: NetName=3V3 Pin=J9-12
+Removed Pin From Net: NetName=3V3 Pin=POT1-1
+Removed Pin From Net: NetName=3V3 Pin=R3-1
+Change Component Designator: OldDesignator=AMS? NewDesignator=U4
+Added Pin To Net: NetName=3V3MCU Pin=C32-2
+Added Pin To Net: NetName=3V3MCU Pin=C33-1
+Added Pin To Net: NetName=3V3MCU Pin=C62-2
+Added Pin To Net: NetName=3V3MCU Pin=C69-2
+Added Pin To Net: NetName=3V3MCU Pin=J1-1
+Added Pin To Net: NetName=3V3MCU Pin=J2-1
+Added Pin To Net: NetName=3V3MCU Pin=J3-8
+Added Pin To Net: NetName=3V3MCU Pin=J5-16
+Added Pin To Net: NetName=3V3MCU Pin=J6-10
+Added Pin To Net: NetName=3V3MCU Pin=J7-6
+Added Pin To Net: NetName=3V3MCU Pin=J9-12
+Added Pin To Net: NetName=3V3MCU Pin=POT1-1
+Added Pin To Net: NetName=3V3MCU Pin=R3-1
+Added Pin To Net: NetName=3V3MCU Pin=R11-2
+Added Pin To Net: NetName=3V3MCU Pin=U1-8
+Added Pin To Net: NetName=3V3MCU Pin=U1-15
+Added Pin To Net: NetName=3V3MCU Pin=U1-29
+Added Pin To Net: NetName=3V3MCU Pin=U1-46
+Added Pin To Net: NetName=3V3MCU Pin=U1-62
+Added Pin To Net: NetName=3V3MCU Pin=U1-82
+Added Pin To Net: NetName=3V3MCU Pin=U1-87
+Added Pin To Net: NetName=3V3MCU Pin=U1-88
+Added Pin To Net: NetName=3V3MCU Pin=U1-91
+Added Pin To Net: NetName=3V3MCU Pin=U2-11
+Added Pin To Net: NetName=3V3MCU Pin=U2-20
+Added Pin To Net: NetName=3V3MCU Pin=U2-21
+Added Pin To Net: NetName=3V3MCU Pin=U2-39
+Added Pin To Net: NetName=3V3MCU Pin=U2-56
+Added Pin To Net: NetName=3V3MCU Pin=U4-2
+Added Pin To Net: NetName=3V3MCU Pin=U4-4
+Change Net Name : Old Net Name=3V3 New Net Name=GND
+Change Net Name : Old Net Name=3V3MCU New Net Name=3V3_JLINK
+Change Net Name : Old Net Name=NetAMS?_3 New Net Name=NetC30_2
+Added Room: Name=RA6M1_2

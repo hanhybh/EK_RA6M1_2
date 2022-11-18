@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=P108/TMS/SWDIO Pin=J1-2
+Removed Pin From Net: NetName=P300/TCK/SWCLK Pin=J1-4
+Removed Pin From Net: NetName=P109/TDO Pin=J1-6
+Removed Pin From Net: NetName=P110/TDI Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=RESet_MCU Pin=J1-10
+Change Component Footprint: Designator=J1 Old Footprint=322010010000 New Footprint=JP 2x5 DT
+Change Component Comment : Designator=J1 Old Comment=3220-10-0100-00 New Comment=JP 2x5 2.54
+Change component parameters: Designator = "J1" ("J1"); Footprint = "322010010000"; UniqueID = "\NEUDKRKT" ("\NEUDKRKT")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=RESet_MCU Pin=J1-6
+Added Pin To Net: NetName=P110/TDI Pin=J1-7
+Added Pin To Net: NetName=P109/TDO Pin=J1-8
+Added Pin To Net: NetName=P300/TCK/SWCLK Pin=J1-9
+Added Pin To Net: NetName=P108/TMS/SWDIO Pin=J1-10
+Added Room: Name=RA6M1_2
